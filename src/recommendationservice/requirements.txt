@@ -80,7 +80,7 @@ opencensus-ext-stackdriver==0.8.0
     # via -r requirements.in
 proto-plus==1.20.6
     # via google-cloud-monitoring
-protobuf==3.20.1
+protobuf==6.33.5
     # via
     #   -r requirements.in
     #   google-api-core
@@ -91,7 +91,7 @@ protobuf==3.20.1
     #   grpcio-health-checking
     #   grpcio-status
     #   proto-plus
-pyasn1==0.4.8
+pyasn1==0.6.2
     # via
     #   pyasn1-modules
     #   rsa
